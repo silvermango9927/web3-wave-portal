@@ -1,0 +1,15 @@
+{
+  "name": "web3-eth-wave-portal",
+  "version": "1.0.0",
+  "description": "A simple introductory app into learning crypto and web3 on buildspace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhay Ganti",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.12.4"
+  }
+}
